@@ -71,12 +71,12 @@ body {
        	
 a:link { 
 	color: black;/* unvisited link*/
-  text-decoration: none;
+  text-decoration: underline;
 }
 			
 a:visited {
   color: black; /* visited link */
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
