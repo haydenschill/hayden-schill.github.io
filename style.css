@@ -80,7 +80,7 @@ a:visited {
 }
 
 a:hover {
-  color: grey;	/* mouse over link */
+  color: blue;	/* mouse over link */
   text-decoration: underline;
 }
 
