@@ -54,7 +54,7 @@ body {
 }
 
 #name:hover {
-  color: black;	/* mouse over link */
+  color: grey;	/* mouse over link */
 }
        	
 .about {
@@ -70,12 +70,12 @@ body {
 }
        	
 a:link { 
-	color: black;/* unvisited link*/
+	color: blue;/* unvisited link*/
   text-decoration: none;
 }
 			
 a:visited {
-  color: black; /* visited link */
+  color: purple; /* visited link */
   text-decoration: none;
 }
 
