@@ -46,6 +46,14 @@ body {
   border-style:none;
 }
 
+.beachImg {
+	width: 500px; 
+	padding-left: 100px; 
+	padding-right: 100px; 
+	float: center; 
+	border-style: none; 
+}
+
 
 #name {
   font-size: 30px; 
