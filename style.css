@@ -70,17 +70,17 @@ body {
 }
        	
 a:link { 
-	color: blue;/* unvisited link*/
+	color: black;/* unvisited link*/
   text-decoration: none;
 }
 			
 a:visited {
-  color: purple; /* visited link */
+  color: blue; /* visited link */
   text-decoration: none;
 }
 
 a:hover {
-  color: blue;	/* mouse over link */
+  color: grey;	/* mouse over link */
   text-decoration: underline;
 }
 
