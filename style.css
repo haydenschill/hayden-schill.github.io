@@ -28,7 +28,7 @@ body {
   display: none;
 }
    
-#profileImg {
+.profileImg {
   width: 225px;
   padding-left: 50px;
   padding-right: 175px;
