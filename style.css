@@ -75,7 +75,7 @@ a:link {
 }
 			
 a:visited {
-  color: blue; /* visited link */
+  color: grey; /* visited link */
   text-decoration: none;
 }
 
